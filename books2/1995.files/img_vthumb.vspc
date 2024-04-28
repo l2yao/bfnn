@@ -1,0 +1,2478 @@
+object:IconImage
+{
+	pixmap="./img_vthumb.jpg";
+	object :ThumbSpec
+	{
+		filename="000.gif";
+		date=13/1/2005;
+		time=19:20:40;
+		size=(99 pixel,142 pixel);
+		rect=(0;2,56,80);
+		x=13 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="001.jpg";
+		date=13/1/2005;
+		time=19:28:12;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(80,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="002.jpg";
+		date=13/1/2005;
+		time=19:28:14;
+		size=(480 pixel,428 pixel);
+		dpi=300;
+		rect=(160,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="003.jpg";
+		date=13/1/2005;
+		time=19:28:16;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="004.jpg";
+		date=13/1/2005;
+		time=19:28:16;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(320,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="005.jpg";
+		date=13/1/2005;
+		time=19:28:16;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="006.jpg";
+		date=13/1/2005;
+		time=19:28:16;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(480,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="007.jpg";
+		date=13/1/2005;
+		time=19:28:18;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(560,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="008.jpg";
+		date=13/1/2005;
+		time=19:28:18;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(640,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="009.jpg";
+		date=13/1/2005;
+		time=19:28:18;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(720,0,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="010.jpg";
+		date=13/1/2005;
+		time=19:28:18;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="011.jpg";
+		date=13/1/2005;
+		time=19:28:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80;3,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="012.jpg";
+		date=13/1/2005;
+		time=19:28:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(160,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="013.jpg";
+		date=13/1/2005;
+		time=19:28:20;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(240,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="014.jpg";
+		date=13/1/2005;
+		time=19:28:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="015.jpg";
+		date=13/1/2005;
+		time=19:28:22;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="016.jpg";
+		date=13/1/2005;
+		time=19:28:22;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(480,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="017.jpg";
+		date=13/1/2005;
+		time=19:28:22;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(560,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="018.jpg";
+		date=13/1/2005;
+		time=19:28:22;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(640,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="019.jpg";
+		date=13/1/2005;
+		time=19:28:24;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(720,80;2,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="020.jpg";
+		date=13/1/2005;
+		time=19:28:24;
+		size=(479 pixel,426 pixel);
+		dpi=300;
+		rect=(0,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="021.jpg";
+		date=13/1/2005;
+		time=19:40:36;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="022.jpg";
+		date=13/1/2005;
+		time=19:40:32;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(160;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="023.jpg";
+		date=13/1/2005;
+		time=19:40:18;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(240,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="024.jpg";
+		date=13/1/2005;
+		time=19:40:22;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(320,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="025.jpg";
+		date=13/1/2005;
+		time=19:40:32;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="026.jpg";
+		date=13/1/2005;
+		time=19:40:36;
+		size=(479 pixel,427 pixel);
+		dpi=300;
+		rect=(480,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="027.jpg";
+		date=13/1/2005;
+		time=19:40:26;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="028.jpg";
+		date=13/1/2005;
+		time=19:40:34;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="029.jpg";
+		date=13/1/2005;
+		time=19:40:30;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,160,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="030.jpg";
+		date=13/1/2005;
+		time=19:40:24;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="031.jpg";
+		date=13/1/2005;
+		time=19:40:20;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(80,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="032.jpg";
+		date=13/1/2005;
+		time=19:40:50;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(160,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="033.jpg";
+		date=13/1/2005;
+		time=19:40:46;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(240;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="034.jpg";
+		date=13/1/2005;
+		time=19:40:48;
+		size=(480 pixel,428 pixel);
+		dpi=300;
+		rect=(320,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="035.jpg";
+		date=13/1/2005;
+		time=19:40:42;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(400,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="036.jpg";
+		date=13/1/2005;
+		time=19:40:40;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(480,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="037.jpg";
+		date=13/1/2005;
+		time=19:40:38;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(560,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="038.jpg";
+		date=13/1/2005;
+		time=19:40:40;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(640,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="039.jpg";
+		date=13/1/2005;
+		time=19:40:36;
+		size=(479 pixel,425 pixel);
+		dpi=300;
+		rect=(720,240,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="040.jpg";
+		date=13/1/2005;
+		time=19:40:28;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="041.jpg";
+		date=13/1/2005;
+		time=19:40:22;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(80,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="042.jpg";
+		date=13/1/2005;
+		time=19:40:48;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="043.jpg";
+		date=13/1/2005;
+		time=19:40:46;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(240,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="044.jpg";
+		date=13/1/2005;
+		time=19:40:44;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="045.jpg";
+		date=13/1/2005;
+		time=19:40:44;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(400,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="046.jpg";
+		date=13/1/2005;
+		time=19:40:22;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(480,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="047.jpg";
+		date=13/1/2005;
+		time=19:40:20;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(560,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="048.jpg";
+		date=13/1/2005;
+		time=19:40:44;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="049.jpg";
+		date=13/1/2005;
+		time=19:40:46;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(720,320,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="050.jpg";
+		date=13/1/2005;
+		time=19:40:40;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="051.jpg";
+		date=13/1/2005;
+		time=19:40:28;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="052.jpg";
+		date=13/1/2005;
+		time=19:40:48;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="053.jpg";
+		date=13/1/2005;
+		time=19:40:42;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="054.jpg";
+		date=13/1/2005;
+		time=19:40:28;
+		size=(480 pixel,428 pixel);
+		dpi=300;
+		rect=(320,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="055.jpg";
+		date=13/1/2005;
+		time=19:40:42;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(400;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="056.jpg";
+		date=13/1/2005;
+		time=19:40:48;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(480,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="057.jpg";
+		date=13/1/2005;
+		time=19:40:26;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="058.jpg";
+		date=13/1/2005;
+		time=19:40:34;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="059.jpg";
+		date=13/1/2005;
+		time=19:40:22;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,400,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="060.jpg";
+		date=13/1/2005;
+		time=19:40:42;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="061.jpg";
+		date=13/1/2005;
+		time=19:51:2;
+		size=(479 pixel,427 pixel);
+		dpi=300;
+		rect=(80,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="062.jpg";
+		date=13/1/2005;
+		time=19:50:58;
+		size=(480 pixel,429 pixel);
+		dpi=300;
+		rect=(160,480,80,72);
+		x=1 pixel;
+		y=5 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="063.jpg";
+		date=13/1/2005;
+		time=19:50:54;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="064.jpg";
+		date=13/1/2005;
+		time=19:50:52;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(320,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="065.jpg";
+		date=13/1/2005;
+		time=19:51;
+		size=(478 pixel,425 pixel);
+		dpi=300;
+		rect=(400,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="066.jpg";
+		date=13/1/2005;
+		time=19:50:56;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(480;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="067.jpg";
+		date=13/1/2005;
+		time=19:50:56;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="068.jpg";
+		date=13/1/2005;
+		time=19:50:58;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(640,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="069.jpg";
+		date=13/1/2005;
+		time=19:51:2;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,480,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="070.jpg";
+		date=13/1/2005;
+		time=19:51;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(0,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="071.jpg";
+		date=13/1/2005;
+		time=19:51;
+		size=(479 pixel,427 pixel);
+		dpi=300;
+		rect=(80,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="072.jpg";
+		date=13/1/2005;
+		time=19:50:56;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="073.jpg";
+		date=13/1/2005;
+		time=19:50:54;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(240,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="074.jpg";
+		date=13/1/2005;
+		time=19:51:2;
+		size=(479 pixel,427 pixel);
+		dpi=300;
+		rect=(320,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="075.jpg";
+		date=13/1/2005;
+		time=19:51;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(400,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="076.jpg";
+		date=13/1/2005;
+		time=19:50:58;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(480,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="077.jpg";
+		date=13/1/2005;
+		time=19:50:58;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(560;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="078.jpg";
+		date=13/1/2005;
+		time=19:50:56;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="079.jpg";
+		date=13/1/2005;
+		time=19:50:58;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,560,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="080.jpg";
+		date=13/1/2005;
+		time=19:51:4;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="081.jpg";
+		date=13/1/2005;
+		time=19:58:24;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="082.jpg";
+		date=13/1/2005;
+		time=19:58:26;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="083.jpg";
+		date=13/1/2005;
+		time=19:58:16;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="084.jpg";
+		date=13/1/2005;
+		time=19:58:14;
+		size=(480 pixel,429 pixel);
+		dpi=300;
+		rect=(320,640,80,72);
+		x=1 pixel;
+		y=5 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="085.jpg";
+		date=13/1/2005;
+		time=19:58:14;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(400,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="086.jpg";
+		date=13/1/2005;
+		time=19:58:24;
+		size=(480 pixel,429 pixel);
+		dpi=300;
+		rect=(480,640,80,72);
+		x=1 pixel;
+		y=5 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="087.jpg";
+		date=13/1/2005;
+		time=19:58:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="088.jpg";
+		date=13/1/2005;
+		time=19:58:22;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(640;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="089.jpg";
+		date=13/1/2005;
+		time=19:58:18;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,640,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="090.jpg";
+		date=13/1/2005;
+		time=19:58:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="091.jpg";
+		date=13/1/2005;
+		time=19:58:18;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="092.jpg";
+		date=13/1/2005;
+		time=19:58:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(160,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="093.jpg";
+		date=13/1/2005;
+		time=19:58:18;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="094.jpg";
+		date=13/1/2005;
+		time=19:58:16;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="095.jpg";
+		date=13/1/2005;
+		time=19:58:26;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="096.jpg";
+		date=13/1/2005;
+		time=19:58:14;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(480,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="097.jpg";
+		date=13/1/2005;
+		time=19:58:22;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(560,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="098.jpg";
+		date=13/1/2005;
+		time=19:58:16;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(640,720,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="099.jpg";
+		date=13/1/2005;
+		time=19:58:18;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(720;2,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="100.jpg";
+		date=13/1/2005;
+		time=19:58:12;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(0,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="101.jpg";
+		date=13/1/2005;
+		time=19:58:18;
+		size=(479 pixel,426 pixel);
+		dpi=300;
+		rect=(80,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="102.jpg";
+		date=13/1/2005;
+		time=19:58:16;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="103.jpg";
+		date=13/1/2005;
+		time=19:58:20;
+		size=(479 pixel,424 pixel);
+		dpi=300;
+		rect=(240,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="104.jpg";
+		date=13/1/2005;
+		time=19:58:26;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="105.jpg";
+		date=13/1/2005;
+		time=19:58:16;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="106.jpg";
+		date=13/1/2005;
+		time=19:58:20;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(480,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="107.jpg";
+		date=13/1/2005;
+		time=19:58:24;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(560,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="108.jpg";
+		date=13/1/2005;
+		time=19:58:26;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="109.jpg";
+		date=13/1/2005;
+		time=19:58:24;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,800,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="110.jpg";
+		date=13/1/2005;
+		time=19:58:22;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(0,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="111.jpg";
+		date=13/1/2005;
+		time=20:18:34;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(80,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="112.jpg";
+		date=13/1/2005;
+		time=20:18:46;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(160,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="113.jpg";
+		date=13/1/2005;
+		time=20:18:44;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(240,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="114.jpg";
+		date=13/1/2005;
+		time=20:18:44;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="115.jpg";
+		date=13/1/2005;
+		time=20:18:42;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="116.jpg";
+		date=13/1/2005;
+		time=20:18:34;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(480,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="117.jpg";
+		date=13/1/2005;
+		time=20:18:40;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(560,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="118.jpg";
+		date=13/1/2005;
+		time=20:18:38;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="119.jpg";
+		date=13/1/2005;
+		time=20:18:38;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,880,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="120.jpg";
+		date=13/1/2005;
+		time=20:18:46;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="121.jpg";
+		date=13/1/2005;
+		time=20:18:38;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(80,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="122.jpg";
+		date=13/1/2005;
+		time=20:18:48;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="123.jpg";
+		date=13/1/2005;
+		time=20:18:44;
+		size=(479 pixel,425 pixel);
+		dpi=300;
+		rect=(240,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="124.jpg";
+		date=13/1/2005;
+		time=20:18:42;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(320,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="125.jpg";
+		date=13/1/2005;
+		time=20:18:40;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(400,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="126.jpg";
+		date=13/1/2005;
+		time=20:18:36;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(480,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="127.jpg";
+		date=13/1/2005;
+		time=20:18:48;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="128.jpg";
+		date=13/1/2005;
+		time=20:18:36;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="129.jpg";
+		date=13/1/2005;
+		time=20:18:36;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,960,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="130.jpg";
+		date=13/1/2005;
+		time=20:18:44;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(0,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="131.jpg";
+		date=13/1/2005;
+		time=20:18:40;
+		size=(479 pixel,424 pixel);
+		dpi=300;
+		rect=(80,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="132.jpg";
+		date=13/1/2005;
+		time=20:18:48;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(160,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="133.jpg";
+		date=13/1/2005;
+		time=20:18:46;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(240,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="134.jpg";
+		date=13/1/2005;
+		time=20:18:38;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(320,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="135.jpg";
+		date=13/1/2005;
+		time=20:18:42;
+		size=(480 pixel,424 pixel);
+		dpi=300;
+		rect=(400,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="136.jpg";
+		date=13/1/2005;
+		time=20:18:48;
+		size=(480 pixel,425 pixel);
+		dpi=300;
+		rect=(480,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="137.jpg";
+		date=13/1/2005;
+		time=20:18:36;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(560,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="138.jpg";
+		date=13/1/2005;
+		time=20:18:46;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(640,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="139.jpg";
+		date=13/1/2005;
+		time=20:18:32;
+		size=(480 pixel,426 pixel);
+		dpi=300;
+		rect=(720,1040,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="140.jpg";
+		date=13/1/2005;
+		time=20:18:40;
+		size=(480 pixel,394 pixel);
+		dpi=300;
+		rect=(0,1120,80,66);
+		x=1 pixel;
+		y=8 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="141.jpg";
+		date=13/1/2005;
+		time=20:27:32;
+		size=(480 pixel,427 pixel);
+		dpi=300;
+		rect=(80,1120,80,71);
+		x=1 pixel;
+		y=6 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="170.jpg";
+		date=13/1/2005;
+		time=20:34:26;
+		size=(377 pixel,426 pixel);
+		dpi=300;
+		rect=(160,1120,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="142.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,427 pixel);
+		dpi=300;
+		rect=(240,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="143.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(320,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="144.jpg";
+		date=13/1/2005;
+		time=20:52:48;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(400,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="145.jpg";
+		date=13/1/2005;
+		time=20:52:52;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(480,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="146.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(560,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="147.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(640,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="148.jpg";
+		date=13/1/2005;
+		time=20:52:54;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(720,1120,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="149.jpg";
+		date=13/1/2005;
+		time=20:52:52;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(0,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="150.jpg";
+		date=13/1/2005;
+		time=20:52:54;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(80,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="151.jpg";
+		date=13/1/2005;
+		time=20:52:52;
+		size=(431 pixel,424 pixel);
+		dpi=300;
+		rect=(160,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="152.jpg";
+		date=13/1/2005;
+		time=20:52:48;
+		size=(431 pixel,424 pixel);
+		dpi=300;
+		rect=(240,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="153.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(320,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="154.jpg";
+		date=13/1/2005;
+		time=20:52:54;
+		size=(431 pixel,423 pixel);
+		dpi=300;
+		rect=(400,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="155.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,423 pixel);
+		dpi=300;
+		rect=(480,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="156.jpg";
+		date=13/1/2005;
+		time=20:52:52;
+		size=(431 pixel,424 pixel);
+		dpi=300;
+		rect=(560,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="157.jpg";
+		date=13/1/2005;
+		time=20:52:54;
+		size=(431 pixel,423 pixel);
+		dpi=300;
+		rect=(640,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="158.jpg";
+		date=13/1/2005;
+		time=20:52:56;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(720,1200,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="159.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(0,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="160.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,427 pixel);
+		dpi=300;
+		rect=(80,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="161.jpg";
+		date=13/1/2005;
+		time=20:52:48;
+		size=(431 pixel,424 pixel);
+		dpi=300;
+		rect=(160,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="162.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,427 pixel);
+		dpi=300;
+		rect=(240,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="163.jpg";
+		date=13/1/2005;
+		time=20:52:56;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(320,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="164.jpg";
+		date=13/1/2005;
+		time=20:52:50;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(400,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="165.jpg";
+		date=13/1/2005;
+		time=20:52:48;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(480,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="166.jpg";
+		date=13/1/2005;
+		time=20:52:54;
+		size=(431 pixel,426 pixel);
+		dpi=300;
+		rect=(560,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="167.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,424 pixel);
+		dpi=300;
+		rect=(640,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="168.jpg";
+		date=13/1/2005;
+		time=20:52:44;
+		size=(431 pixel,423 pixel);
+		dpi=300;
+		rect=(720,1280,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="169.jpg";
+		date=13/1/2005;
+		time=20:52:46;
+		size=(431 pixel,425 pixel);
+		dpi=300;
+		rect=(0,1360,80,79);
+		x=1 pixel;
+		y=2 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="171.jpg";
+		date=13/1/2005;
+		time=21:0:50;
+		size=(380 pixel,427 pixel);
+		dpi=300;
+		rect=(80,1360,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="172.jpg";
+		date=13/1/2005;
+		time=21:0:52;
+		size=(380 pixel,427 pixel);
+		dpi=300;
+		rect=(160,1360,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="173.jpg";
+		date=13/1/2005;
+		time=21:0:52;
+		size=(379 pixel,427 pixel);
+		dpi=300;
+		rect=(240,1360,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="174.jpg";
+		date=13/1/2005;
+		time=21:0:52;
+		size=(379 pixel,427 pixel);
+		dpi=300;
+		rect=(320,1360,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="175.jpg";
+		date=13/1/2005;
+		time=21:0:52;
+		size=(379 pixel,427 pixel);
+		dpi=300;
+		rect=(400,1360,71,80);
+		x=6 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="176.jpg";
+		date=13/1/2005;
+		time=21:15:34;
+		size=(122 pixel,569 pixel);
+		rect=(480,1360,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="177.jpg";
+		date=13/1/2005;
+		time=21:15:30;
+		size=(122 pixel,568 pixel);
+		rect=(560,1360,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="178.jpg";
+		date=13/1/2005;
+		time=21:15:26;
+		size=(122 pixel,568 pixel);
+		rect=(640,1360,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="179.jpg";
+		date=13/1/2005;
+		time=21:15:22;
+		size=(124 pixel,570 pixel);
+		rect=(720,1360,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="180.jpg";
+		date=13/1/2005;
+		time=21:15:20;
+		size=(122 pixel,568 pixel);
+		rect=(0,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="181.jpg";
+		date=13/1/2005;
+		time=21:15:16;
+		size=(123 pixel,568 pixel);
+		dpi=300;
+		rect=(80,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="182.jpg";
+		date=13/1/2005;
+		time=21:15:12;
+		size=(123 pixel,570 pixel);
+		rect=(160,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="183.jpg";
+		date=13/1/2005;
+		time=21:15:8;
+		size=(122 pixel,568 pixel);
+		dpi=300;
+		rect=(240,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="184.jpg";
+		date=13/1/2005;
+		time=21:15:4;
+		size=(122 pixel,568 pixel);
+		rect=(320,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="185.jpg";
+		date=13/1/2005;
+		time=21:15;
+		size=(124 pixel,570 pixel);
+		rect=(400,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="186.jpg";
+		date=13/1/2005;
+		time=21:14:56;
+		size=(122 pixel,568 pixel);
+		rect=(480,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="187.jpg";
+		date=13/1/2005;
+		time=21:14:54;
+		size=(124 pixel,570 pixel);
+		dpi=300;
+		rect=(560,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="188.jpg";
+		date=13/1/2005;
+		time=21:14:50;
+		size=(122 pixel,569 pixel);
+		rect=(640,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="189.jpg";
+		date=13/1/2005;
+		time=21:14:46;
+		size=(124 pixel,570 pixel);
+		rect=(720,1440,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="190.jpg";
+		date=13/1/2005;
+		time=21:14:42;
+		size=(121 pixel,570 pixel);
+		rect=(0,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="191.jpg";
+		date=13/1/2005;
+		time=21:14:38;
+		size=(122 pixel,568 pixel);
+		dpi=300;
+		rect=(80,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="192.jpg";
+		date=13/1/2005;
+		time=21:14:34;
+		size=(122 pixel,568 pixel);
+		rect=(160,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="193.jpg";
+		date=13/1/2005;
+		time=21:14:30;
+		size=(124 pixel,570 pixel);
+		rect=(240,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="194.jpg";
+		date=13/1/2005;
+		time=21:14:26;
+		size=(122 pixel,568 pixel);
+		rect=(320,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="195.jpg";
+		date=13/1/2005;
+		time=21:14:22;
+		size=(124 pixel,570 pixel);
+		rect=(400,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="196.jpg";
+		date=13/1/2005;
+		time=21:14:14;
+		size=(122 pixel,568 pixel);
+		rect=(480,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="197.jpg";
+		date=13/1/2005;
+		time=21:14:10;
+		size=(124 pixel,570 pixel);
+		dpi=300;
+		rect=(560,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="198.jpg";
+		date=13/1/2005;
+		time=21:14:6;
+		size=(122 pixel,568 pixel);
+		rect=(640,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="199.jpg";
+		date=13/1/2005;
+		time=21:14:2;
+		size=(122 pixel,568 pixel);
+		rect=(720,1520,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="200.jpg";
+		date=13/1/2005;
+		time=21:13:58;
+		size=(122 pixel,568 pixel);
+		rect=(0,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="201.jpg";
+		date=13/1/2005;
+		time=21:13:54;
+		size=(123 pixel,570 pixel);
+		rect=(80,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="202.jpg";
+		date=13/1/2005;
+		time=21:13:50;
+		size=(122 pixel,568 pixel);
+		rect=(160,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="203.jpg";
+		date=13/1/2005;
+		time=21:13:48;
+		size=(123 pixel,570 pixel);
+		rect=(240,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="204.jpg";
+		date=13/1/2005;
+		time=21:13:42;
+		size=(122 pixel,570 pixel);
+		rect=(320,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="205.jpg";
+		date=13/1/2005;
+		time=21:13:38;
+		size=(122 pixel,568 pixel);
+		rect=(400,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="206.jpg";
+		date=13/1/2005;
+		time=21:13:34;
+		size=(123 pixel,569 pixel);
+		rect=(480,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="207.jpg";
+		date=13/1/2005;
+		time=21:13:30;
+		size=(123 pixel,570 pixel);
+		rect=(560,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="209.jpg";
+		date=13/1/2005;
+		time=21:13:18;
+		size=(122 pixel,568 pixel);
+		dpi=300;
+		rect=(640,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="210.jpg";
+		date=13/1/2005;
+		time=21:13:14;
+		size=(123 pixel,570 pixel);
+		rect=(720,1600,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="211.jpg";
+		date=13/1/2005;
+		time=21:13:8;
+		size=(123 pixel,570 pixel);
+		dpi=300;
+		rect=(0,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="212.jpg";
+		date=13/1/2005;
+		time=21:13:4;
+		size=(122 pixel,569 pixel);
+		rect=(80,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="213.jpg";
+		date=13/1/2005;
+		time=21:13;
+		size=(123 pixel,569 pixel);
+		dpi=300;
+		rect=(160,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="214.jpg";
+		date=13/1/2005;
+		time=21:12:52;
+		size=(121 pixel,568 pixel);
+		rect=(240,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="215.jpg";
+		date=13/1/2005;
+		time=21:12:44;
+		size=(122 pixel,569 pixel);
+		rect=(320,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="216.jpg";
+		date=13/1/2005;
+		time=21:12:38;
+		size=(124 pixel,570 pixel);
+		rect=(400,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="208.jpg";
+		date=13/1/2005;
+		time=21:17:16;
+		size=(122 pixel,570 pixel);
+		rect=(480,1680,17,80);
+		x=33 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="217.jpg";
+		date=13/1/2005;
+		time=22:53:4;
+		size=(317 pixel,426 pixel);
+		dpi=300;
+		rect=(560,1680,60,80);
+		x=11 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="218.jpg";
+		date=13/1/2005;
+		time=22:52:52;
+		size=(290 pixel,427 pixel);
+		dpi=300;
+		rect=(640,1680,54,80);
+		x=14 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="219.jpg";
+		date=13/1/2005;
+		time=22:52:42;
+		size=(276 pixel,427 pixel);
+		dpi=300;
+		rect=(720,1680,52,80);
+		x=15 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="220.jpg";
+		date=13/1/2005;
+		time=22:0:18;
+		size=(568 pixel,394 pixel);
+		dpi=300;
+		rect=(0,1760,80,56);
+		x=1 pixel;
+		y=13 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="221.jpg";
+		date=13/1/2005;
+		time=22:0:4;
+		size=(588 pixel,394 pixel);
+		dpi=300;
+		rect=(80,1760,80,54);
+		x=1 pixel;
+		y=14 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="224.jpg";
+		date=13/1/2005;
+		time=21:57:54;
+		size=(236 pixel,427 pixel);
+		dpi=300;
+		rect=(160,1760,44,80);
+		x=19 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="225.jpg";
+		date=13/1/2005;
+		time=21:57:44;
+		size=(253 pixel,426 pixel);
+		dpi=300;
+		rect=(240,1760,48,80);
+		x=17 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="226.jpg";
+		date=13/1/2005;
+		time=21:57:30;
+		size=(351 pixel,427 pixel);
+		dpi=300;
+		rect=(320,1760,66,80);
+		x=8 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="227.jpg";
+		date=13/1/2005;
+		time=21:57:20;
+		size=(512 pixel,427 pixel);
+		dpi=300;
+		rect=(400,1760,80,67);
+		x=1 pixel;
+		y=8 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="222.jpg";
+		date=13/1/2005;
+		time=23:0:16;
+		size=(275 pixel,427 pixel);
+		dpi=300;
+		rect=(480,1760,52,80);
+		x=15 pixel;
+		y=1 pixel;
+	};
+	object :ThumbSpec
+	{
+		filename="223.jpg";
+		date=13/1/2005;
+		time=23:0:2;
+		size=(589 pixel,394 pixel);
+		dpi=300;
+		rect=(560,1760,80,54);
+		x=1 pixel;
+		y=14 pixel;
+	};
+}
